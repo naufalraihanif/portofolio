@@ -429,6 +429,12 @@ footer .far {
     margin-bottom: 30px;
   }
 
+  .about .left img {
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+  }
+  
   .services .serv-content {
     flex-direction: column;
   }
